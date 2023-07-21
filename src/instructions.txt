@@ -1,0 +1,23 @@
+This coursework is submitted as part of the requirements for the Machine Learning (M124) course
+in the DSIT's Master degree programme, of the National and Kapodistrian University of Athens.
+The authors of this project are (in alphabetical order):
+
+- Khalil Batoul (SID: 7115152200025)
+- Kyriakos Psallidas (SID: 7115152200033)
+- Michael Darmanis (SID: 7115152200004)
+- Vasilios Venieris (SID: 7115152200017)
+
+In the zipped folder you will find three Google Colab notebooks:
+
+1. `Notebook 1`: This notebook contains the solutions of Exercise 1. (https://drive.google.com/file/d/1Pd0MnRPy9jhIwrwnLd4LCulplUyv98Ag/view?usp=sharing)
+
+
+2. `Notebook 2`: This notebook contains the solutions of Exercise 2. (https://drive.google.com/drive/folders/1_Tni63VYhw2nBEeGiNPh3J4PxJvXt2cI?usp=sharing)
+
+    A host of models are used in this Exercise, so the above link includes many notebooks.
+
+
+3. `Notebook 3`: This notebook contains the solutions to Exercise 3. (https://drive.google.com/file/d/1XhSmFajkvE0dfAkRpueMTDq0e06fUTR0/view?usp=sharing)
+
+    The following hyperlink for Exercise 3 contains a zip file of all the code's dependencies:
+    https://drive.google.com/file/d/1e8wWql0Y5lnVsnK5bpzbAQxiaSL64pZC/view?usp=sharing
