@@ -1,3 +1,5 @@
+This work is one of a series of three distinct repositories that collectively constitute the coursework focused on Neural Networks for the Μ124 - Machine Learning course at the National and Kapodistrian University of Athens (NKUA) during the Fall 2022 semester. The other two repos deal with [Activation functions & gradient analysis](https://github.com/KyriakosPsa/ActFunc-GradientAnalysis) and [Adversarial Neural Networks (ANN)](https://github.com/KyriakosPsa/Neural-Networks-Adversarial-Examples).
+
 # Machine Learning Homework 2: Neural Network Exploration
 
 This machine learning project was undertaken using Python and Keras, focusing on neural networks. The exercise explored network architectures and activation functions, and the capability to reproduce results was demonstrated.
